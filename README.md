@@ -1,1 +1,4 @@
 # IT-6-Organization
+This repository documents the different organizational methods of developing IT solutions, such as how to best manage complexity, document requirements, deal with changes to scope, and optimize the time and abilities of each team member. It is essentially the management best practices that follow from considering each of the technical layers below it.
+
+[Building Analogy] Organization = The best way to organize the building team, arrange for delivery of materials and personel, manage changes to the building project, and track results as work progresses.
